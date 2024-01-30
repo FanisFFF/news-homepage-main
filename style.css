@@ -383,6 +383,9 @@ footer {
   footer {
     gap: 2rem;
   }
+  footer {
+    margin-bottom: 3rem;
+  }
   .footer__news-container {
     max-width: 330px;
     /* max-height: 127px; */
